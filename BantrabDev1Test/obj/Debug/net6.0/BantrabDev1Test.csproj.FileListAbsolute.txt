@@ -1,0 +1,15 @@
+F:\Documents\GitHub\Applies\Devel Systems\DevelSystems_Test\BantrabDev1Test\BantrabDev1Test\bin\Debug\net6.0\BantrabDev1Test.exe
+F:\Documents\GitHub\Applies\Devel Systems\DevelSystems_Test\BantrabDev1Test\BantrabDev1Test\bin\Debug\net6.0\BantrabDev1Test.deps.json
+F:\Documents\GitHub\Applies\Devel Systems\DevelSystems_Test\BantrabDev1Test\BantrabDev1Test\bin\Debug\net6.0\BantrabDev1Test.runtimeconfig.json
+F:\Documents\GitHub\Applies\Devel Systems\DevelSystems_Test\BantrabDev1Test\BantrabDev1Test\bin\Debug\net6.0\BantrabDev1Test.dll
+F:\Documents\GitHub\Applies\Devel Systems\DevelSystems_Test\BantrabDev1Test\BantrabDev1Test\bin\Debug\net6.0\BantrabDev1Test.pdb
+F:\Documents\GitHub\Applies\Devel Systems\DevelSystems_Test\BantrabDev1Test\BantrabDev1Test\obj\Debug\net6.0\BantrabDev1Test.csproj.AssemblyReference.cache
+F:\Documents\GitHub\Applies\Devel Systems\DevelSystems_Test\BantrabDev1Test\BantrabDev1Test\obj\Debug\net6.0\BantrabDev1Test.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\GitHub\Applies\Devel Systems\DevelSystems_Test\BantrabDev1Test\BantrabDev1Test\obj\Debug\net6.0\BantrabDev1Test.AssemblyInfoInputs.cache
+F:\Documents\GitHub\Applies\Devel Systems\DevelSystems_Test\BantrabDev1Test\BantrabDev1Test\obj\Debug\net6.0\BantrabDev1Test.AssemblyInfo.cs
+F:\Documents\GitHub\Applies\Devel Systems\DevelSystems_Test\BantrabDev1Test\BantrabDev1Test\obj\Debug\net6.0\BantrabDev1Test.csproj.CoreCompileInputs.cache
+F:\Documents\GitHub\Applies\Devel Systems\DevelSystems_Test\BantrabDev1Test\BantrabDev1Test\obj\Debug\net6.0\BantrabDev1Test.dll
+F:\Documents\GitHub\Applies\Devel Systems\DevelSystems_Test\BantrabDev1Test\BantrabDev1Test\obj\Debug\net6.0\refint\BantrabDev1Test.dll
+F:\Documents\GitHub\Applies\Devel Systems\DevelSystems_Test\BantrabDev1Test\BantrabDev1Test\obj\Debug\net6.0\BantrabDev1Test.pdb
+F:\Documents\GitHub\Applies\Devel Systems\DevelSystems_Test\BantrabDev1Test\BantrabDev1Test\obj\Debug\net6.0\BantrabDev1Test.genruntimeconfig.cache
+F:\Documents\GitHub\Applies\Devel Systems\DevelSystems_Test\BantrabDev1Test\BantrabDev1Test\obj\Debug\net6.0\ref\BantrabDev1Test.dll

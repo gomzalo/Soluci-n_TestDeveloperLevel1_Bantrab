@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BantrabDev1Test/1.0.0": {
+        "runtime": {
+          "BantrabDev1Test.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BantrabDev1Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
